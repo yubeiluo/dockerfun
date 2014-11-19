@@ -14,3 +14,8 @@ Beginner's Guide
 Recommended Books
 =========
 1. [Containerization is the new virtualization](http://dockerbook.com/)
+
+Troubleshooting
+=========
+1. [docker-boot2docker-set-http-https-proxies-for-docker-on-osx](http://stackoverflow.com/questions/24489265/docker-boot2docker-set-http-https-proxies-for-docker-on-osx)
+
