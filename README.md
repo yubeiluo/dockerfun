@@ -25,3 +25,6 @@ Troubleshooting
 =========
 1. [docker-boot2docker-set-http-https-proxies-for-docker-on-osx](http://stackoverflow.com/questions/24489265/docker-boot2docker-set-http-https-proxies-for-docker-on-osx)
 
+CoreOS
+=========
+1.[alex-polvi-explains-coreos](http://www.activestate.com/blog/2013/08/alex-polvi-explains-coreos)
