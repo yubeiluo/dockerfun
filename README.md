@@ -11,6 +11,7 @@ Beginner's Guide
 4. [How To Install and Use Docker: Getting Started](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started)
 5. [Docker Explained: Using Dockerfiles to Automate Building of Images](https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images)
 6. [Docker基础与高级](http://17173ops.com/2014/10/13/docker%E5%9F%BA%E7%A1%80%E4%B8%8E%E9%AB%98%E7%BA%A7.shtml#toc4)
+7. [solomon-hykes-explains-docker](http://www.activestate.com/blog/2013/06/solomon-hykes-explains-docker)
 
 Recommended Books
 =========
