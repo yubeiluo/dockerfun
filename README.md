@@ -28,3 +28,7 @@ Troubleshooting
 CoreOS
 =========
 1.[alex-polvi-explains-coreos](http://www.activestate.com/blog/2013/08/alex-polvi-explains-coreos)
+
+LXC
+========
+1. [Tour and set up the new container tools called Linux Containers](http://www.ibm.com/developerworks/linux/library/l-lxc-containers/)
